@@ -1804,4 +1804,4 @@ Release Notes
       proguard files that can be manually integrated into Android builds
       within AAR files matching the following pattern in each
       Unity package:
-      `Firebase/m2repository/com/google/firebase/firebase-*-unity/*firebase-*.srcaar`
+      `Firebase/m2repository/com/google/firebase/firebase-*-unity/*firebase-*.srcaar` 
